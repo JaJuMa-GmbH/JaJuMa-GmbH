@@ -1,7 +1,7 @@
 # JaJuMa-GmbH
 ## About JaJuMa - Magento Agency | Magento Extensions | Online Marketplaces
 
-## [Magento 2 Extensions](https://www.jajuma.de/jajuma-develop) by [JaJuMa](https://www.jajuma.de/)
+## [Magento 2 Extensions](https://www.jajuma.de/en/jajuma-develop/magento-extensions) by [JaJuMa](https://www.jajuma.de/)
 
 
   * :framed_picture: Performance & UX:<br>[WebP Optimized Images for Magento 2](https://www.jajuma.de/en/jajuma-develop/extensions/webp-optimized-images-extension-for-magento-2#portfolio-content)<br>
@@ -40,12 +40,18 @@
    Complete Online Marketplace Software Solution. For Professional Demands. Feature Rich. Flexibly Customizable.
    
   * :shopping_cart: [JaJuMa-Shop](https://www.jajuma.de/en/jajuma-shop)<br>
-   Customized Magento Shop Solutions.   
+   Customized Magento Shop Solutions.
+
+  * :rocket: [JaJuMa-Shop: Hyvä Magento Shop Development](https://www.jajuma.de/de/jajuma-shop/online-shop-mit-magento-2-und-hyva-themes)<br>
+   Hyvä Magento Shop Development.
+   
+  * :orange_book: [JaJuMa-Shop: Magento Handbuch in Deutsch](https://www.jajuma.de/de/jajuma-shop/magento-2-handbuch/)<br>
+   Magento Handbuch in Deutsch.
    
   * :card_index_dividers: [JaJuMa-PIM](https://www.jajuma.de/en/jajuma-pim)<br>
    Product Information Management. Simple. Better.
 
-  * :heavy_plus_sign: [JaJuMa-Develop: Magento 2 Extensions](https://www.jajuma.de/en/jajuma-develop)<br>
+  * :heavy_plus_sign: [JaJuMa-Develop: Magento 2 Extensions](https://www.jajuma.de/en/jajuma-develop/magento-extensions)<br>
    Individual Solutions For Your Business Case.    
    
   * :paintbrush: [JaJuMa-Design](https://www.jajuma.de/en/jajuma-design)<br>

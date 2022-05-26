@@ -1,5 +1,5 @@
 # JaJuMa-GmbH
-## About JaJuMa - Magento Agency | Magento Extensions | Online Marketplaces
+## About JaJuMa - [Magento Agency](https://www.jajuma.de/de) | [Magento 2 Extensions](https://www.jajuma.de/en/jajuma-develop/magento-extensions) | [Online Marketplaces](https://www.jajuma.de/en/jajuma-market) | [Hyvä Theme](https://www.jajuma.de/de/jajuma-shop/online-shop-mit-magento-2-und-hyva-themes)
 
 ## [Magento 2 Extensions](https://www.jajuma.de/en/jajuma-develop/magento-extensions) by [JaJuMa](https://www.jajuma.de/)
 
@@ -33,6 +33,15 @@
   
   * :bell: Marketing:<br>[Customer Registration Reminder & Cleanup for Magento 2](https://www.jajuma.de/en/jajuma-develop/extensions/customer-registration-reminder-and-cleanup-extension-for-magento-2)<br>
   Increase Your Customer Engangement & Cleanup your Customer Account Data Automatically  
+
+  * :triangular_flag_on_post: UI & UX:<br>[Awesome Hyvä for Hyvä Themes](https://www.jajuma.de/en/jajuma-develop/extensions/font-awesome-icons-for-hyva-themes-extension)<br>
+  Font Awesome 5 & 6 Icons for your [Hyvä Themes](https://www.jajuma.de/de/jajuma-shop/online-shop-mit-magento-2-und-hyva-themes) Store  
+
+  * :heavy_division_sign: Accounting:<br>[Dynamic Shipping Tax for Magento 2](https://www.jajuma.de/en/jajuma-develop/extensions/font-awesome-icons-for-hyva-themes-extension)<br>
+  Dynamic shipping tax calculation based on products in cart    
+  
+  * :question: Content:<br>[Hyvä FAQ Widget for Hyvä Themes](https://www.jajuma.de/en/jajuma-develop/extensions/hyva-faq-widget-extension-for-hyva-themes)<br>
+  FAQ Widget for Magento 2 with Hyvä Theme
 
 ## [Services](https://www.jajuma.de/en/jajuma/company-magento-ecommerce-agency-stuttgart) by [JaJuMa](https://www.jajuma.de/)
 
